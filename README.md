@@ -7,7 +7,7 @@
 - 💬 Ask me about Flutter Apps/UI ,freelancing work on python,flutter projects and adobe xd or Figma
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/gaurav-kumar-pandit-9319651b0/)
-- [Gmail](grvkmrpandit@gmail.com)
+- [mailto](grvkmrpandit@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I sleep more than I am awake
 
