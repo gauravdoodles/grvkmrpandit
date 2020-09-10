@@ -10,5 +10,5 @@
 - [Gmail](mailto:grvkmrpandit@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I sleep more than I am awake
-<img src="https://github-readme-stats.vercel.app/api?username=grvkmrpandit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=grvkmrpandit&&show_icons=true&title_color=ffffff&icon_color=26E639&text_color=FFFFFF&bg_color=eb5a6d"/>
 
